@@ -13,3 +13,6 @@ a = int(aActual)  # convirtiendo la cadena aActual en tipo entero
 b = int(aNacer)  # convirtiendo la cadena aActual en tipo entero
 # si no se realiza la conversion de variables tipo cadena a tipo entero
 # no se puede realizar la siguiente operacion
+años = a - b  # realizamos una operacion matematica para calcular los años y la
+# almacenamos en la variable años recuerde esta bariable es una cadena
+print('hola ' + name + ' tu tienes ' + str(años) + ' de edad')
