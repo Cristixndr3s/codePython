@@ -1,3 +1,7 @@
 print('hola mundo')
 print('como te llamas')
 name = input()
+print('esccribe el año actual?')
+aActual = input()
+print('escribe el año de nacimiento?')
+aNacer = input()
